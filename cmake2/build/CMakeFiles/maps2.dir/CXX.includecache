@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mikey/Maps_Hash/Maps_Hash/cmake2/src/IDD_codes.cpp
+unordered_map
+-
+string
+-
+iostream
+-
+vector
+-
+
